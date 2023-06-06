@@ -1,16 +1,15 @@
-**What does this PR do?**
+#### :tickets: Jira Tickets
 
-**Where should the reviewer start?**
+#### :interrobang: What does this PR do?
 
-**How should this be manually tested?**
+#### :family: Related PRs?
 
-**Any background context you want to provide?**
+#### :world_map: Where should the reviewer start?
 
-**What are the relevant tickets?**
+#### :microscope: How should this be manually tested?
 
-**Screenshots or screencasts (if UI/UX change)**
+#### :book: Any background context you want to provide?
 
-**Questions:**
-- Does the docs need an update?
-- Are there any security concerns?
-- Do we need to update engineering / success?
+#### :camera: Screenshots/Screencasts
+
+#### :bug: Test Results

@@ -220,6 +220,12 @@ NS_SWIFT_NAME(Analytics)
 /** Returns the anonymous ID of the current user. */
 - (NSString *)getAnonymousId;
 
+/** Returns the user ID of the current user. */
+- (NSString *)getUserId;
+
+/** Returns the user traits of the current user. */
+- (NSDictionary *)getUserTraits;
+
 /** Returns the registered device token of this device */
 - (NSString *)getDeviceToken;
 
